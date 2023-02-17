@@ -59,6 +59,8 @@ source.
   * :ref:`bitbucket-setup`
   * :ref:`pagure-setup`
   * :ref:`azure-setup`
+  * :ref:`gitea-setup`
+
 
 * Manually trigger update either in the repository management or using :ref:`api` or :ref:`wlc`
 
